@@ -1,3 +1,0 @@
-# Python-Pandas
-
-Python Hackathon
